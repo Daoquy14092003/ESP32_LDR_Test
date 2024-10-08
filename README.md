@@ -3,7 +3,7 @@ By Đào Ngọc Quý
 
 ## Mục đích : 
 - Nâng cao sự nhanh nhẹn trong các quy trình làm việc với PlatformIO, Git và Github
-- Dự án này sử dụng ESP32 để đo cường độ ánh sáng từ một quang trở (LDR)
+- Sử dụng ESP32 để đo cường độ ánh sáng từ một quang trở (LDR)
 
 ## Yêu cầu :
 - Đọc giá trị độ sáng (tương đối) từ quang trở qua chân ADC.
@@ -23,7 +23,7 @@ By Đào Ngọc Quý
 ## Hình ảnh đồ thị :
 https://github.com/Daoquy14092003/ESP32_LDR_Test/blob/main/Plot1_LDR_Test.jpg?raw=true
 
-## Hướng dẫn thễm : Cách chèn ảnh chụp màn hình đồ thị ánh sáng vào tệp README.md
+## Hướng dẫn thêm : Cách chèn ảnh chụp màn hình đồ thị ánh sáng vào tệp README.md
 - Tải ảnh lên GitHub: Mở repo trên Github, nhấn vào nút Add file và chọn Upload files, chọn tệp từ máy tính, nhấn Commit changes sau khi tải ảnh lên.
 - Lấy đường dẫn của ảnh : Nhấp chuột phải vào ảnh và chọn Copy image address để sao chép đường dẫn của ảnh.
 
