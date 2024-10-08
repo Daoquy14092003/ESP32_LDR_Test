@@ -17,7 +17,7 @@ By Đào Ngọc Quý
 ## Hướng dẫn kết nối : 
 -  Kết nối một chân của quang trở (LDR) với chân ADC (ví dụ: GPIO 34) của ESP32.
 -  Kết nối chân còn lại của quang trở với nguồn 3.3V.
--  Kết nối một điện trở (10kΩ) từ chân ADC đến GND.
+-  Kết nối một điện trở từ chân ADC đến GND.
 -  Đảm bảo tất cả các kết nối chắc chắn.
 
 ## Hình ảnh đồ thị :
